@@ -1,8 +1,8 @@
-QUESTION - Develop a Java program to create a class Student with members usn, name, an array 
+/*QUESTION - Develop a Java program to create a class Student with members usn, name, an array 
         credits and an array marks. Include methods to accept and display details and a 
-        method to calculate SGPA of a student.
+        method to calculate SGPA of a student.*/
 
-                                             CODE
+                                            // CODE
 
 import java.util.Scanner;
 class Student
