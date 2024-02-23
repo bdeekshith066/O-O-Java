@@ -4,8 +4,7 @@ QUESTION -  Develop a Java program that prints all real solutions to the quadrat
 
 
 
-
-                                                                                CODE
+                                              CODE
 
 import java.util.Scanner;
 
