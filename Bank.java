@@ -107,7 +107,7 @@ else
     }
 }
 
-public class Bank
+class Bank
 {
     public static void main(String[] args)
 {
@@ -164,3 +164,36 @@ public class Bank
 
     }
 }
+
+
+                                                                      // Output
+/*Enter customer name for Savings Account: Enter account number for Savings Account: 100
+Enter initial balance for Savings Account: 1000
+Enter customer name for Current Account: Deekshith
+Enter account number for Current Account: 22
+Enter initial balance for Current Account: 23
+Enter minimum balance for Current Account: 44
+Enter service charge for Current Account: 1
+Enter deposit amount for Savings Account: 56
+Deposit successful. Updated balance: 1056.0
+Enter interest rate for Savings Account: 2
+Interest computed and deposited. Updated balance: 1077.12
+Enter withdrawal amount for Savings Account: 999
+Withdrawal successful. Updated balance: 78.11999999999989
+Enter deposit amount for Current Account: 500
+Deposit successful. Updated balance: 523.0
+Enter withdrawal amount for Current Account: 23
+Withdrawal successful. Updated balance: 500.0
+
+Final Balances:
+Savings Account:
+Account Number: 100
+Customer Name: 
+Account Type: Savings
+Balance: 78.11999999999989
+
+Current Account:
+Account Number: 22
+Customer Name: Deekshith
+Account Type: Current
+Balance: 500.0*/
