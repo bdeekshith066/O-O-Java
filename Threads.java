@@ -1,4 +1,9 @@
-class BMS implements Runnable {
+                                                                                    //Question 
+/*Write a program which creates two threads, one thread displaying “BMS College of Engineering” once every ten seconds and another displaying “CSE” once every two seconds.*/
+
+
+                                                                                    //Code
+  class BMS implements Runnable {
   public void run() {
     try {
       while (true) {
