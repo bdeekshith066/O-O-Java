@@ -94,27 +94,27 @@ input.close();
 Enter number of books: 2
 
 Book 1:
-Enter name of book: Harry Potter and The Chamber of Secrets
-Enter name of author: J. K. Rowling
+Enter name of book: Java1
+Enter name of author: Deekshith B
 Enter price of the book: 418
 Enter no. of pages in the book: 341
 
 Book 2:
-Enter name of book: Adventures of Vibinn Noothan
-Enter name of author: Charan G
+Enter name of book: Java2
+Enter name of author: Dixit
 Enter price of the book: 300
 Enter no. of pages in the book: 250
 
 Book 1:
-Book name: Harry Potter and The Chamber of Secrets
-Author name: J. K. Rowling
+Book name: Java1
+Author name: Deekshith B
 Price: 418 Rs
 Number of pages: 341 pages
 
 
 Book 2:
-Book name: Adventures of Vibinn Noothan
-Author name: Charan G
+Book name: Java2
+Author name: Dixit
 Price: 300 Rs
 Number of pages: 250 pages
 */
