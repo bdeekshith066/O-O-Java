@@ -39,3 +39,17 @@ public class Main {
     t2.start();
   }
 }
+
+                                                    // Output
+/*BMS College of Engineering
+CSE
+CSE
+CSE
+CSE
+CSE
+BMS College of Engineering
+CSE
+CSE
+CSE
+CSE
+CSE*/
