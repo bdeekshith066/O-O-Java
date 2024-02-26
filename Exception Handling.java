@@ -62,3 +62,7 @@ public class ExceptH {
         }
     }
 }
+
+
+                                                            //Output
+//Exception: Son's age should be less than Father's age
